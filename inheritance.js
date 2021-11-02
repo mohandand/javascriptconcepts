@@ -33,3 +33,17 @@ console.log(mars1.locomotion());
 console.log(Object.keys(mars1))
 Array [ "backbone", "neocortex", "name", "pouch", "aussie" ]
 console.log(Object.keys(mam1))
+
+console.log(mam1)
+console.log(mam1.__proto__)
+console.log(mam1.__proto__.constructor)
+console.log(mars1)
+console.log(mars1.__proto__)
+console.log(mars1.__proto__.constructor)
+console.log(mars1.__proto__.__proto__)
+console.log(mars1.__proto__.__proto__.constructor)
+
+mam1 instanceof Mammal
+mars1 instanceof Mammal
+mars1 instanceof Marsupial
+mam1 instanceof Marsupiall

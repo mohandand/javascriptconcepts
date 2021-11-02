@@ -45,5 +45,5 @@ console.log(mars1.__proto__.__proto__.constructor)
 
 mam1 instanceof Mammal
 mars1 instanceof Mammal
-mars1 instanceof Marsupiall
+mars1 instanceof Marsupial
 mam1 instanceof Marsupial

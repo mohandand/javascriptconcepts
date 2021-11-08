@@ -15,7 +15,7 @@ class Mammal {
 }
 class Marsupial extends Mammal {
     constructor(commonName) {
-        super(commonName); // pa
+        super(commonName); // parent Constructor
         this.pouch = true;
         this.aussie = "likely";
     }

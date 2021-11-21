@@ -6,3 +6,5 @@ let promise = new Promise(function(resolve, reject) {
         console.log("Resolved")
         resolve("done")}, 1000);
   });
+
+

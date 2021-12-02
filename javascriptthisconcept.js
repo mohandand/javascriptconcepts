@@ -76,7 +76,7 @@ newFunc();
 
 //sayName.call(Mohan);//by using call we can  call sayName function in context of Mohan object
 
-//So first parameter is always indicate context of this and remaing parameters u can give as per function requires
+//So first parameter is always indicate context of this and remaing parameters you can give as per function requires
 
 
 

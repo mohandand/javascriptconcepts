@@ -45,7 +45,7 @@ function myFunction() {
 myFunction();
 myFunction.apply(myObj);
 myFunction.call(myObj);
-myFunction.bind(myObj);//it wont print any result.
+myFunction.bind(myObj);//it won't print any result.
 var newFunc = myFunction.bind(myObj);
 newFunc();
 

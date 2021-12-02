@@ -74,7 +74,7 @@ newFunc();
 //     age:27
 // }
 
-//sayName.call(Mohan);//by using call we can  call sayName function in context of Mohan object
+//sayName.call(Mohan);//by using call we can  call sayName function in context of Mohan obje
 
 //So first parameter is always indicate context of this and remaing parameters u can give as per function requires
 

@@ -3,7 +3,7 @@ var myObjB = {course: "CS3520", students: 34};
 var myObjC = {music: "Metal Baroque", guitarist: "JS Bach"};
 myObjB.__proto__ = myObjA;
 myObjC.__proto__ = myObjB;
-// console.log(myObjC); // Doesn't look different for
+// console.log(myObjC); // Doesn't look different 
 // console.log(myObjC.number); // How?
 // console.log(myObjC)
 // console.log(myObjC.__proto__)

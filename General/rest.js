@@ -1,3 +1,7 @@
+// In below the function can take any number of arguments using rest operator
+// it convert single values into a array
+
+
 function addnums(...args){
     console.log(args)
     let sum=0;
@@ -9,8 +13,6 @@ function addnums(...args){
 
 console.log(addnums(1,2,3));
 
-// In above the function can take any number of arguments using rest operator
-// it convert single values into a array
 
 /* if you want to get product of first values and sum 
 of rest all values then we can write below code */

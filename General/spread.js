@@ -5,4 +5,4 @@ function add(a,b){
 console.log(add(...[2,3]));
 
 //if we send args as array it wwill fail but if we use spread operator
-//Basically it will spread array elments as individual arguments.
+//Basically it will spread array elments as individual arguments and pass it to a and b.

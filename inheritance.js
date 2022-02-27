@@ -20,7 +20,7 @@ class Marsupial extends Mammal { //child constructor extending parent
         this.aussie = "likely";
     }
 
-    speak() {
+    speak() { //child speak method
         return "Some kind of Marsupial sound";
     }
 }

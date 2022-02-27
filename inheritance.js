@@ -13,7 +13,7 @@ class Mammal {
         return "Some kind of mammal sound";
     }
 }
-class Marsupial extends Mammal { //child constructor
+class Marsupial extends Mammal { //child constructor extending parent
     constructor(commonName) {
         super(commonName); // parent Constructor
         this.pouch = true;

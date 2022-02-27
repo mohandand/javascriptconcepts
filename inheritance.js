@@ -42,7 +42,7 @@ console.log(mars1.__proto__)
 console.log(mars1.__proto__.constructor)
 console.log(mars1.__proto__.__proto__)
 console.log(mars1.__proto__.__proto__.constructor)
-
+//checking instance
 mam1 instanceof Mammal
 mars1 instanceof Mammal
 mars1 instanceof Marsupial

@@ -33,7 +33,7 @@ console.log(mars1.locomotion());
 console.log(Object.keys(mars1))
 Array [ "backbone", "neocortex", "name", "pouch", "aussie" ]
 console.log(Object.keys(mam1))
-
+//checkig prototype
 console.log(mam1)
 console.log(mam1.__proto__)
 console.log(mam1.__proto__.constructor)

@@ -1,4 +1,4 @@
-class Mammal1 {
+class Mammal {
     constructor(commonName) {
         this.backbone = true;
         this.neocortex = true;
